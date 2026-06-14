@@ -1,1 +1,1 @@
-# choco-app
+# choco-app-backend
